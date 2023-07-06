@@ -13,6 +13,7 @@ public class MidtermExam {
     /**
      * @param args the command line arguments
      */
+    //Prepping for exam
     public static void main(String[] args) {
         // TODO code application logic here
     }
